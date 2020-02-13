@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-13T02:04:43.284Z</updated>
+  <updated>2020-02-13T07:31:34.741Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>可爱猫开源项目_获取某个省份的疫情情况</title>
+    <link href="http://yoursite.com/2020/02/13/%E5%8F%AF%E7%88%B1%E7%8C%AB%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-%E8%8E%B7%E5%8F%96%E6%9F%90%E4%B8%AA%E7%9C%81%E4%BB%BD%E7%9A%84%E7%96%AB%E6%83%85%E6%83%85%E5%86%B5/"/>
+    <id>http://yoursite.com/2020/02/13/%E5%8F%AF%E7%88%B1%E7%8C%AB%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-%E8%8E%B7%E5%8F%96%E6%9F%90%E4%B8%AA%E7%9C%81%E4%BB%BD%E7%9A%84%E7%96%AB%E6%83%85%E6%83%85%E5%86%B5/</id>
+    <published>2020-02-13T07:22:54.000Z</published>
+    <updated>2020-02-13T07:31:34.741Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p> 可爱猫插件开源项目<br>  获取某个省份的疫情情况</p><a id="more"></a><h1 id="获取源码"><a href="#获取源码" class="headerlink" title="获取源码"></a>获取源码</h1><ul><li><a href="https://github.com/RichardMiku/Cat_getIll" target="_blank" rel="noopener">Github</a></li><li><a href="https://gitee.com/RichardMiku/Cat_getIll" target="_blank" rel="noopener">Gitee</a></li></ul><h1 id="插件示例"><a href="#插件示例" class="headerlink" title="插件示例"></a>插件示例</h1><p><img src="http://188.131.136.44/images/CuteCat/ill/example.jpg" alt="示例"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;说明&quot;&gt;&lt;a href=&quot;#说明&quot; class=&quot;headerlink&quot; title=&quot;说明&quot;&gt;&lt;/a&gt;说明&lt;/h1&gt;&lt;p&gt; 可爱猫插件开源项目&lt;br&gt;  获取某个省份的疫情情况&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="C#" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/C/"/>
+    
+    
+      <category term="可爱猫插件" scheme="http://yoursite.com/tags/%E5%8F%AF%E7%88%B1%E7%8C%AB%E6%8F%92%E4%BB%B6/"/>
+    
+      <category term="开源" scheme="http://yoursite.com/tags/%E5%BC%80%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>化学元素与人体健康</title>
     <link href="http://yoursite.com/2020/02/13/%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0%E4%B8%8E%E4%BA%BA%E4%BD%93%E5%81%A5%E5%BA%B7/"/>
     <id>http://yoursite.com/2020/02/13/%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0%E4%B8%8E%E4%BA%BA%E4%BD%93%E5%81%A5%E5%BA%B7/</id>
     <published>2020-02-13T01:39:12.000Z</published>
-    <updated>2020-02-13T02:04:43.284Z</updated>
+    <updated>2020-02-13T07:17:50.453Z</updated>
     
     <content type="html"><![CDATA[<h1 id="人体中的化学元素"><a href="#人体中的化学元素" class="headerlink" title="人体中的化学元素"></a>人体中的化学元素</h1><ul><li>常量元素（超过0.01%）：O,C,H,N,Ca,P,K,S,Na,Hg,Mg</li><li>微量元素（少于0.01%）<ul><li>必需微量元素：Fe,Zn,Se,I,F等</li><li>非必需微量元素：Al,Ba,Ti</li><li>有害微量元素：Hg,Pb,Cd<a id="more"></a></li></ul></li></ul><h1 id="化学元素对健康的影响"><a href="#化学元素对健康的影响" class="headerlink" title="化学元素对健康的影响"></a>化学元素对健康的影响</h1><ul><li>缺钙：青少年易患佝偻病，老年人易得骨质疏松</li><li>缺铁：易得缺铁性贫血</li><li>缺锌：食欲不振、发育不良、生长迟缓</li><li>缺氟：易得龋齿</li><li>缺碘：易得甲状腺肿大</li><li>缺硒：引起表皮角质化、癌症</li></ul>]]></content>
     
@@ -37,7 +64,7 @@
     </summary>
     
     
-      <category term="化学笔记" scheme="http://yoursite.com/categories/%E5%8C%96%E5%AD%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="化学网课笔记" scheme="http://yoursite.com/categories/%E5%8C%96%E5%AD%A6%E7%BD%91%E8%AF%BE%E7%AC%94%E8%AE%B0/"/>
     
     
   </entry>
