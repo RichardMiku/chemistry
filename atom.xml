@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-15T02:14:07.070Z</updated>
+  <updated>2020-02-16T04:24:26.726Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CoolQ开源项目-GetUrl</title>
+    <link href="http://yoursite.com/2020/02/16/CoolQ%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-GetUrl/"/>
+    <id>http://yoursite.com/2020/02/16/CoolQ%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-GetUrl/</id>
+    <published>2020-02-16T03:59:16.000Z</published>
+    <updated>2020-02-16T04:24:26.726Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p> 酷Q插件开源项目<br>  Get指定URL并取Code返回值</p><a id="more"></a><h1 id="获取源码"><a href="#获取源码" class="headerlink" title="获取源码"></a>获取源码</h1><ul><li><a href="https://github.com/RichardMiku/CQGetUrl" target="_blank" rel="noopener">Github</a></li><li><a href="https://gitee.com/RichardMiku/CQGetUrl" target="_blank" rel="noopener">Gitee</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;说明&quot;&gt;&lt;a href=&quot;#说明&quot; class=&quot;headerlink&quot; title=&quot;说明&quot;&gt;&lt;/a&gt;说明&lt;/h1&gt;&lt;p&gt; 酷Q插件开源项目&lt;br&gt;  Get指定URL并取Code返回值&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="C#" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/C/"/>
+    
+    
+      <category term="酷Q插件" scheme="http://yoursite.com/tags/%E9%85%B7Q%E6%8F%92%E4%BB%B6/"/>
+    
+      <category term="开源" scheme="http://yoursite.com/tags/%E5%BC%80%E6%BA%90/"/>
+    
+  </entry>
   
   <entry>
     <title>有机合成材料有机化合物</title>
@@ -64,9 +91,9 @@
       <category term="C#" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/C/"/>
     
     
-      <category term="可爱猫插件" scheme="http://yoursite.com/tags/%E5%8F%AF%E7%88%B1%E7%8C%AB%E6%8F%92%E4%BB%B6/"/>
-    
       <category term="开源" scheme="http://yoursite.com/tags/%E5%BC%80%E6%BA%90/"/>
+    
+      <category term="可爱猫插件" scheme="http://yoursite.com/tags/%E5%8F%AF%E7%88%B1%E7%8C%AB%E6%8F%92%E4%BB%B6/"/>
     
   </entry>
   
