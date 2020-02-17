@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-16T04:24:26.726Z</updated>
+  <updated>2020-02-17T02:09:48.508Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CHEMISTRY NET TEST ANSWER CARD</title>
+    <link href="http://yoursite.com/2020/02/17/CHEMISTRYdemo1/"/>
+    <id>http://yoursite.com/2020/02/17/CHEMISTRYdemo1/</id>
+    <published>2020-02-17T01:34:31.000Z</published>
+    <updated>2020-02-17T02:09:48.508Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一定要说"><a href="#一定要说" class="headerlink" title="一定要说"></a>一定要说</h2><ul><li>此答案是正确答案，可以参考</li><li>本人测验分数为90<a id="more"></a></li></ul><h2 id="选择题"><a href="#选择题" class="headerlink" title="选择题"></a>选择题</h2><ul><li>1.A 2.B 3.D 4.C 5.A </li><li>6.A 7.D 8.B 9.A 10.A</li></ul><h2 id="填空题"><a href="#填空题" class="headerlink" title="填空题"></a>填空题</h2><ul><li>11.<ul><li>(1) b a c d</li><li>(2) B C</li><li>(3)天然气</li><li>(4)与可燃物隔离</li></ul></li><li>12.<ul><li>(1)c a b d</li><li>(2)煤 风能</li><li>(3)A C D</li></ul></li><li>13.<ul><li>(1)天然气 温度达到可燃物的着火点</li><li>(2)蛋白质</li></ul></li><li>14.<ul><li>(1)黑色 碳</li><li>(2)玉米片 为人体补充碳元素</li><li>(3)合成</li><li>(4)金属 2</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;一定要说&quot;&gt;&lt;a href=&quot;#一定要说&quot; class=&quot;headerlink&quot; title=&quot;一定要说&quot;&gt;&lt;/a&gt;一定要说&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;此答案是正确答案，可以参考&lt;/li&gt;
+&lt;li&gt;本人测验分数为90
+    
+    </summary>
+    
+    
+      <category term="化学网课" scheme="http://yoursite.com/categories/%E5%8C%96%E5%AD%A6%E7%BD%91%E8%AF%BE/"/>
+    
+    
+      <category term="测验答案" scheme="http://yoursite.com/tags/%E6%B5%8B%E9%AA%8C%E7%AD%94%E6%A1%88/"/>
+    
+  </entry>
   
   <entry>
     <title>CoolQ开源项目-GetUrl</title>
