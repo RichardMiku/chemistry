@@ -5,9 +5,9 @@
   <subtitle>相信梦想就在前方</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-02-17T02:09:48.508Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://www.rmdoc.com/"/>
+  <updated>2020-02-16T04:24:26.726Z</updated>
+  <id>http://www.rmdoc.com/</id>
   
   <author>
     <name>ReichardMiku</name>
@@ -17,34 +17,9 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>CHEMISTRY NET TEST ANSWER CARD</title>
-    <link href="http://yoursite.com/2020/02/17/CHEMISTRYdemo1/"/>
-    <id>http://yoursite.com/2020/02/17/CHEMISTRYdemo1/</id>
-    <published>2020-02-17T01:34:31.000Z</published>
-    <updated>2020-02-17T02:09:48.508Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="一定要说"><a href="#一定要说" class="headerlink" title="一定要说"></a>一定要说</h2><ul><li>此答案是正确答案，可以参考</li><li>本人测验分数为90<a id="more"></a></li></ul><h2 id="选择题"><a href="#选择题" class="headerlink" title="选择题"></a>选择题</h2><ul><li>1.A 2.B 3.D 4.C 5.A </li><li>6.A 7.D 8.B 9.A 10.A</li></ul><h2 id="填空题"><a href="#填空题" class="headerlink" title="填空题"></a>填空题</h2><ul><li>11.<ul><li>(1) b a c d</li><li>(2) B C</li><li>(3)天然气</li><li>(4)与可燃物隔离</li></ul></li><li>12.<ul><li>(1)c a b d</li><li>(2)煤 风能</li><li>(3)A C D</li></ul></li><li>13.<ul><li>(1)天然气 温度达到可燃物的着火点</li><li>(2)蛋白质</li></ul></li><li>14.<ul><li>(1)黑色 碳</li><li>(2)玉米片 为人体补充碳元素</li><li>(3)合成</li><li>(4)金属 2</li></ul></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;一定要说&quot;&gt;&lt;a href=&quot;#一定要说&quot; class=&quot;headerlink&quot; title=&quot;一定要说&quot;&gt;&lt;/a&gt;一定要说&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;此答案是正确答案，可以参考&lt;/li&gt;
-&lt;li&gt;本人测验分数为90
-    
-    </summary>
-    
-    
-      <category term="化学网课" scheme="http://yoursite.com/categories/%E5%8C%96%E5%AD%A6%E7%BD%91%E8%AF%BE/"/>
-    
-    
-      <category term="测验答案" scheme="http://yoursite.com/tags/%E6%B5%8B%E9%AA%8C%E7%AD%94%E6%A1%88/"/>
-    
-  </entry>
-  
-  <entry>
     <title>CoolQ开源项目-GetUrl</title>
-    <link href="http://yoursite.com/2020/02/16/CoolQ%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-GetUrl/"/>
-    <id>http://yoursite.com/2020/02/16/CoolQ%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-GetUrl/</id>
+    <link href="http://www.rmdoc.com/2020/02/16/CoolQ%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-GetUrl/"/>
+    <id>http://www.rmdoc.com/2020/02/16/CoolQ%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-GetUrl/</id>
     <published>2020-02-16T03:59:16.000Z</published>
     <updated>2020-02-16T04:24:26.726Z</updated>
     
@@ -57,21 +32,21 @@
     </summary>
     
     
-      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+      <category term="编程" scheme="http://www.rmdoc.com/categories/%E7%BC%96%E7%A8%8B/"/>
     
-      <category term="C#" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/C/"/>
+      <category term="C#" scheme="http://www.rmdoc.com/categories/%E7%BC%96%E7%A8%8B/C/"/>
     
     
-      <category term="酷Q插件" scheme="http://yoursite.com/tags/%E9%85%B7Q%E6%8F%92%E4%BB%B6/"/>
+      <category term="酷Q插件" scheme="http://www.rmdoc.com/tags/%E9%85%B7Q%E6%8F%92%E4%BB%B6/"/>
     
-      <category term="开源" scheme="http://yoursite.com/tags/%E5%BC%80%E6%BA%90/"/>
+      <category term="开源" scheme="http://www.rmdoc.com/tags/%E5%BC%80%E6%BA%90/"/>
     
   </entry>
   
   <entry>
     <title>可爱猫开源项目_获取某个省份的疫情情况</title>
-    <link href="http://yoursite.com/2020/02/13/%E5%8F%AF%E7%88%B1%E7%8C%AB%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-%E8%8E%B7%E5%8F%96%E6%9F%90%E4%B8%AA%E7%9C%81%E4%BB%BD%E7%9A%84%E7%96%AB%E6%83%85%E6%83%85%E5%86%B5/"/>
-    <id>http://yoursite.com/2020/02/13/%E5%8F%AF%E7%88%B1%E7%8C%AB%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-%E8%8E%B7%E5%8F%96%E6%9F%90%E4%B8%AA%E7%9C%81%E4%BB%BD%E7%9A%84%E7%96%AB%E6%83%85%E6%83%85%E5%86%B5/</id>
+    <link href="http://www.rmdoc.com/2020/02/13/%E5%8F%AF%E7%88%B1%E7%8C%AB%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-%E8%8E%B7%E5%8F%96%E6%9F%90%E4%B8%AA%E7%9C%81%E4%BB%BD%E7%9A%84%E7%96%AB%E6%83%85%E6%83%85%E5%86%B5/"/>
+    <id>http://www.rmdoc.com/2020/02/13/%E5%8F%AF%E7%88%B1%E7%8C%AB%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-%E8%8E%B7%E5%8F%96%E6%9F%90%E4%B8%AA%E7%9C%81%E4%BB%BD%E7%9A%84%E7%96%AB%E6%83%85%E6%83%85%E5%86%B5/</id>
     <published>2020-02-13T07:22:54.000Z</published>
     <updated>2020-02-13T07:31:34.741Z</updated>
     
@@ -84,37 +59,14 @@
     </summary>
     
     
-      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+      <category term="编程" scheme="http://www.rmdoc.com/categories/%E7%BC%96%E7%A8%8B/"/>
     
-      <category term="C#" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/C/"/>
-    
-    
-      <category term="开源" scheme="http://yoursite.com/tags/%E5%BC%80%E6%BA%90/"/>
-    
-      <category term="可爱猫插件" scheme="http://yoursite.com/tags/%E5%8F%AF%E7%88%B1%E7%8C%AB%E6%8F%92%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Minecraft Rmserver</title>
-    <link href="http://yoursite.com/2020/02/05/Minecraft-Rmserver/"/>
-    <id>http://yoursite.com/2020/02/05/Minecraft-Rmserver/</id>
-    <published>2020-02-05T12:32:47.000Z</published>
-    <updated>2020-02-08T05:32:38.765Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Rmserver"><a href="#Rmserver" class="headerlink" title="Rmserver"></a>Rmserver</h2><p>Minecraft版本:1.14.x<br>服务器IP:mc.fuie.asia<br>端口:19132</p><a id="more"></a><h3 id="在Android上进行游戏"><a href="#在Android上进行游戏" class="headerlink" title="在Android上进行游戏"></a>在Android上进行游戏</h3><p>如果您想在Android设备上与小伙伴进行游戏，您只需要拥有正版Minecraft<br>或者可以登录Xbox live的破解版Minecraft</p><p>如果您没有Minecraft请点击这里添加QQ群下载：<a href="https://jq.qq.com/?_wv=1027&k=55gXNtH" target="_blank" rel="noopener">Group</a></p><h3 id="在Windows上进行游戏"><a href="#在Windows上进行游戏" class="headerlink" title="在Windows上进行游戏"></a>在Windows上进行游戏</h3><p>目前只有Windows10能够下载Minecraft基岩版<br>所以您的电脑需要Windows10系统并购买Minecraft for Windows10来与小伙伴进行游戏</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;Rmserver&quot;&gt;&lt;a href=&quot;#Rmserver&quot; class=&quot;headerlink&quot; title=&quot;Rmserver&quot;&gt;&lt;/a&gt;Rmserver&lt;/h2&gt;&lt;p&gt;Minecraft版本:1.14.x&lt;br&gt;服务器IP:mc.fuie.asia&lt;br&gt;端口:19132&lt;/p&gt;
-    
-    </summary>
+      <category term="C#" scheme="http://www.rmdoc.com/categories/%E7%BC%96%E7%A8%8B/C/"/>
     
     
-      <category term="游戏" scheme="http://yoursite.com/categories/%E6%B8%B8%E6%88%8F/"/>
+      <category term="开源" scheme="http://www.rmdoc.com/tags/%E5%BC%80%E6%BA%90/"/>
     
-    
-      <category term="Minecraft" scheme="http://yoursite.com/tags/Minecraft/"/>
+      <category term="可爱猫插件" scheme="http://www.rmdoc.com/tags/%E5%8F%AF%E7%88%B1%E7%8C%AB%E6%8F%92%E4%BB%B6/"/>
     
   </entry>
   
