@@ -3,10 +3,10 @@
   <title>Remain</title>
   
   <subtitle>相信梦想就在前方</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/hexodream/atom.xml" rel="self"/>
   
   <link href="http://www.rmdoc.com/"/>
-  <updated>2020-02-16T04:24:26.726Z</updated>
+  <updated>2020-02-23T05:37:11.751Z</updated>
   <id>http://www.rmdoc.com/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>5.20小技巧</title>
+    <link href="http://www.rmdoc.com/2020/02/21/5-20%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <id>http://www.rmdoc.com/2020/02/21/5-20%E5%B0%8F%E6%8A%80%E5%B7%A7/</id>
+    <published>2020-02-21T01:59:43.000Z</published>
+    <updated>2020-02-23T05:37:11.751Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="开始之前"><a href="#开始之前" class="headerlink" title="开始之前"></a>开始之前</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>5.20被认为网络情人节<br>接下来用这些小技巧逗你的Boyfriend/Girlfriend开心吧</p><a id="more"></a><h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><h3 id="工作环境"><a href="#工作环境" class="headerlink" title="工作环境"></a>工作环境</h3><blockquote><p>系统环境</p><ul><li>Microsoft Windows 7 或更高版本</li></ul><p>软件环境</p><ul><li>Visual Studio 2012 或更高版本</li><li>.Net Framework 4.5</li><li>酷Q Air/Pro<ul><li>Air：选择此版本您可以做一些文字小游戏和对方娱乐</li><li>Pro：Pro支持图片、语音和卡片功能，因此选择此版本您将做的更为浪漫</li></ul></li></ul></blockquote><h3 id="开启开发者模式"><a href="#开启开发者模式" class="headerlink" title="开启开发者模式"></a>开启开发者模式</h3><ul><li>开启开发者模式教程来源于酷Q文库<br><img src="https://s2.ax1x.com/2020/02/23/3lHeud.png" alt="CQdev 开发者模式"></li></ul><p>步骤：悬浮窗右键 &gt; 应用 &gt; 应用管理，左键点击应用窗口右下角版本号5次，在弹出的窗口中开启开发模式并重启。<br>开启开发模式后，酷Q将新增以下功能，帮助您进行开发：</p><ul><li>错误信息将详细显示。</li><li>支持载入、打包未打包应用。（开启开发模式后才能载入开发中的应用）</li><li>在应用窗口，按住shift并单击“重启酷Q”，可以快速重载应用（而无需重启）。</li></ul><h3 id="获取SDK"><a href="#获取SDK" class="headerlink" title="获取SDK"></a>获取SDK</h3><p>克隆命令</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git clone https:&#x2F;&#x2F;gitee.com&#x2F;RichardMiku&#x2F;top.rmdoc.demo.git</span><br></pre></td></tr></table></figure><p>由于Github国内访问网速较慢，我将SDK转移到了Gitee</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;开始之前&quot;&gt;&lt;a href=&quot;#开始之前&quot; class=&quot;headerlink&quot; title=&quot;开始之前&quot;&gt;&lt;/a&gt;开始之前&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;5.20被认为网络情人节&lt;br&gt;接下来用这些小技巧逗你的Boyfriend/Girlfriend开心吧&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="编程" scheme="http://www.rmdoc.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="C#" scheme="http://www.rmdoc.com/categories/%E7%BC%96%E7%A8%8B/C/"/>
+    
+    
+      <category term="开源" scheme="http://www.rmdoc.com/tags/%E5%BC%80%E6%BA%90/"/>
+    
+      <category term="NativeFramework" scheme="http://www.rmdoc.com/tags/NativeFramework/"/>
+    
+      <category term="CoolQ" scheme="http://www.rmdoc.com/tags/CoolQ/"/>
+    
+  </entry>
+  
+  <entry>
     <title>CoolQ开源项目-GetUrl</title>
     <link href="http://www.rmdoc.com/2020/02/16/CoolQ%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-GetUrl/"/>
     <id>http://www.rmdoc.com/2020/02/16/CoolQ%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-GetUrl/</id>
     <published>2020-02-16T03:59:16.000Z</published>
-    <updated>2020-02-16T04:24:26.726Z</updated>
+    <updated>2020-02-21T01:44:39.889Z</updated>
     
     <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p> 酷Q插件开源项目<br>  Get指定URL并取Code返回值</p><a id="more"></a><h1 id="获取源码"><a href="#获取源码" class="headerlink" title="获取源码"></a>获取源码</h1><ul><li><a href="https://github.com/RichardMiku/CQGetUrl" target="_blank" rel="noopener">Github</a></li><li><a href="https://gitee.com/RichardMiku/CQGetUrl" target="_blank" rel="noopener">Gitee</a></li></ul>]]></content>
     
@@ -48,7 +77,7 @@
     <link href="http://www.rmdoc.com/2020/02/13/%E5%8F%AF%E7%88%B1%E7%8C%AB%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-%E8%8E%B7%E5%8F%96%E6%9F%90%E4%B8%AA%E7%9C%81%E4%BB%BD%E7%9A%84%E7%96%AB%E6%83%85%E6%83%85%E5%86%B5/"/>
     <id>http://www.rmdoc.com/2020/02/13/%E5%8F%AF%E7%88%B1%E7%8C%AB%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-%E8%8E%B7%E5%8F%96%E6%9F%90%E4%B8%AA%E7%9C%81%E4%BB%BD%E7%9A%84%E7%96%AB%E6%83%85%E6%83%85%E5%86%B5/</id>
     <published>2020-02-13T07:22:54.000Z</published>
-    <updated>2020-02-13T07:31:34.741Z</updated>
+    <updated>2020-02-21T01:44:28.913Z</updated>
     
     <content type="html"><![CDATA[<h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p> 可爱猫插件开源项目<br>  获取某个省份的疫情情况</p><a id="more"></a><h1 id="获取源码"><a href="#获取源码" class="headerlink" title="获取源码"></a>获取源码</h1><ul><li><a href="https://github.com/RichardMiku/Cat_getIll" target="_blank" rel="noopener">Github</a></li><li><a href="https://gitee.com/RichardMiku/Cat_getIll" target="_blank" rel="noopener">Gitee</a></li></ul><h1 id="插件示例"><a href="#插件示例" class="headerlink" title="插件示例"></a>插件示例</h1><p><img src="http://188.131.136.44/images/CuteCat/ill/example.jpg" alt="示例"></p>]]></content>
     
