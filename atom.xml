@@ -5,9 +5,9 @@
   <subtitle>相信梦想就在前方</subtitle>
   <link href="/chemistry/atom.xml" rel="self"/>
   
-  <link href="https://che.rmdoc.com/"/>
+  <link href="https://che.rmdoc.com/chemistry/"/>
   <updated>2020-03-03T02:37:03.016Z</updated>
-  <id>https://che.rmdoc.com/</id>
+  <id>https://che.rmdoc.com/chemistry/</id>
   
   <author>
     <name>ReichardMiku</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>金属活动性顺序表及其应用</title>
-    <link href="https://che.rmdoc.com/2020/03/03/%E9%87%91%E5%B1%9E%E6%B4%BB%E5%8A%A8%E6%80%A7%E9%A1%BA%E5%BA%8F%E8%A1%A8%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/"/>
-    <id>https://che.rmdoc.com/2020/03/03/%E9%87%91%E5%B1%9E%E6%B4%BB%E5%8A%A8%E6%80%A7%E9%A1%BA%E5%BA%8F%E8%A1%A8%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</id>
+    <link href="https://che.rmdoc.com/chemistry/2020/03/03/%E9%87%91%E5%B1%9E%E6%B4%BB%E5%8A%A8%E6%80%A7%E9%A1%BA%E5%BA%8F%E8%A1%A8%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/"/>
+    <id>https://che.rmdoc.com/chemistry/2020/03/03/%E9%87%91%E5%B1%9E%E6%B4%BB%E5%8A%A8%E6%80%A7%E9%A1%BA%E5%BA%8F%E8%A1%A8%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</id>
     <published>2020-03-03T02:27:34.000Z</published>
     <updated>2020-03-03T02:37:03.016Z</updated>
     
@@ -32,15 +32,15 @@
     </summary>
     
     
-      <category term="化学网课" scheme="https://che.rmdoc.com/categories/%E5%8C%96%E5%AD%A6%E7%BD%91%E8%AF%BE/"/>
+      <category term="化学网课" scheme="https://che.rmdoc.com/chemistry/categories/%E5%8C%96%E5%AD%A6%E7%BD%91%E8%AF%BE/"/>
     
     
   </entry>
   
   <entry>
     <title>CHEMISTRY NET TEST ANSWER CARD</title>
-    <link href="https://che.rmdoc.com/2020/02/17/CHEMISTRYdemo1/"/>
-    <id>https://che.rmdoc.com/2020/02/17/CHEMISTRYdemo1/</id>
+    <link href="https://che.rmdoc.com/chemistry/2020/02/17/CHEMISTRYdemo1/"/>
+    <id>https://che.rmdoc.com/chemistry/2020/02/17/CHEMISTRYdemo1/</id>
     <published>2020-02-17T01:34:31.000Z</published>
     <updated>2020-03-03T02:15:57.912Z</updated>
     
@@ -55,17 +55,17 @@
     </summary>
     
     
-      <category term="化学网课" scheme="https://che.rmdoc.com/categories/%E5%8C%96%E5%AD%A6%E7%BD%91%E8%AF%BE/"/>
+      <category term="化学网课" scheme="https://che.rmdoc.com/chemistry/categories/%E5%8C%96%E5%AD%A6%E7%BD%91%E8%AF%BE/"/>
     
     
-      <category term="测验答案" scheme="https://che.rmdoc.com/tags/%E6%B5%8B%E9%AA%8C%E7%AD%94%E6%A1%88/"/>
+      <category term="测验答案" scheme="https://che.rmdoc.com/chemistry/tags/%E6%B5%8B%E9%AA%8C%E7%AD%94%E6%A1%88/"/>
     
   </entry>
   
   <entry>
     <title>有机合成材料有机化合物</title>
-    <link href="https://che.rmdoc.com/2020/02/15/%E6%9C%89%E6%9C%BA%E5%90%88%E6%88%90%E6%9D%90%E6%96%99%E6%9C%89%E6%9C%BA%E5%8C%96%E5%90%88%E7%89%A9/"/>
-    <id>https://che.rmdoc.com/2020/02/15/%E6%9C%89%E6%9C%BA%E5%90%88%E6%88%90%E6%9D%90%E6%96%99%E6%9C%89%E6%9C%BA%E5%8C%96%E5%90%88%E7%89%A9/</id>
+    <link href="https://che.rmdoc.com/chemistry/2020/02/15/%E6%9C%89%E6%9C%BA%E5%90%88%E6%88%90%E6%9D%90%E6%96%99%E6%9C%89%E6%9C%BA%E5%8C%96%E5%90%88%E7%89%A9/"/>
+    <id>https://che.rmdoc.com/chemistry/2020/02/15/%E6%9C%89%E6%9C%BA%E5%90%88%E6%88%90%E6%9D%90%E6%96%99%E6%9C%89%E6%9C%BA%E5%8C%96%E5%90%88%E7%89%A9/</id>
     <published>2020-02-15T01:55:00.000Z</published>
     <updated>2020-03-03T02:16:02.412Z</updated>
     
@@ -84,15 +84,15 @@
     </summary>
     
     
-      <category term="化学网课" scheme="https://che.rmdoc.com/categories/%E5%8C%96%E5%AD%A6%E7%BD%91%E8%AF%BE/"/>
+      <category term="化学网课" scheme="https://che.rmdoc.com/chemistry/categories/%E5%8C%96%E5%AD%A6%E7%BD%91%E8%AF%BE/"/>
     
     
   </entry>
   
   <entry>
     <title>化学元素与人体健康</title>
-    <link href="https://che.rmdoc.com/2020/02/13/%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0%E4%B8%8E%E4%BA%BA%E4%BD%93%E5%81%A5%E5%BA%B7/"/>
-    <id>https://che.rmdoc.com/2020/02/13/%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0%E4%B8%8E%E4%BA%BA%E4%BD%93%E5%81%A5%E5%BA%B7/</id>
+    <link href="https://che.rmdoc.com/chemistry/2020/02/13/%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0%E4%B8%8E%E4%BA%BA%E4%BD%93%E5%81%A5%E5%BA%B7/"/>
+    <id>https://che.rmdoc.com/chemistry/2020/02/13/%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0%E4%B8%8E%E4%BA%BA%E4%BD%93%E5%81%A5%E5%BA%B7/</id>
     <published>2020-02-13T01:39:12.000Z</published>
     <updated>2020-03-03T02:16:27.803Z</updated>
     
@@ -110,7 +110,7 @@
     </summary>
     
     
-      <category term="化学网课" scheme="https://che.rmdoc.com/categories/%E5%8C%96%E5%AD%A6%E7%BD%91%E8%AF%BE/"/>
+      <category term="化学网课" scheme="https://che.rmdoc.com/chemistry/categories/%E5%8C%96%E5%AD%A6%E7%BD%91%E8%AF%BE/"/>
     
     
   </entry>
